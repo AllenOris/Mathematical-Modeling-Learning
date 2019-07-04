@@ -5,3 +5,7 @@
 ## ML-Machine Learning
 
 * Perceptron 感知机
+
+## 方法论
+
+* how-to guide
