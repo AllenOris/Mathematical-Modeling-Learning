@@ -6,6 +6,8 @@
 
 * Perceptron 感知机
 
+* kNN k-近邻算法
+
 ## 方法论
 
 * how-to guide
