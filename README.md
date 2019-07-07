@@ -11,3 +11,9 @@
 ## 方法论
 
 * how-to guide
+
+## 学习资料
+
+* python 绘图 <https://matplotlib.org/gallery/index.html>
+* https://matplotlib.org/gallery/index.html
+* https://github.com/ddbourgin/numpy-ml
