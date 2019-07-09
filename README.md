@@ -6,6 +6,8 @@
 
 * desicion theory 决策论
 
+* information theory 信息论
+
 ## ML-Machine Learning
 
 * Perceptron 感知机
